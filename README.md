@@ -1,6 +1,6 @@
 # From GitHub Parquet to Delta Lake Gold 🚀✨
 
-Welcome to my **first full-fledged end-to-end Data Engineering masterpiece** on **Azure + Databricks**!  
+Welcome to my **first full-fledged end-to-end Data Engineering masterpiece** on **Azure + Databricks**
 This project takes raw Parquet files from GitHub and transforms them into **analytics-ready Gold tables**, following the legendary **Bronze → Silver → Gold architecture**.  
 
 ---
@@ -49,7 +49,7 @@ In short: **from chaos to clean, from raw to gold**.
 
 ## 📈 Architecture
 
-![Pipeline Architecture](./path_to_your_architecture_image.png)  
+![Pipeline Architecture](Azure Data Lake Gen2.png)  
 *Elegant, automated, secure, and ready for analytics.*  
 
 ---
