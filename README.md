@@ -49,7 +49,7 @@ In short: **from chaos to clean, from raw to gold**.
 
 ## 📈 Architecture
 
-![Pipeline Architecture](Azure Data Lake Gen2.png)  
+![Pipeline Architecture](Azure%20Data%20Lake%20Gen2.png)
 *Elegant, automated, secure, and ready for analytics.*  
 
 ---
